@@ -23,20 +23,23 @@ need to load. You'll see a lot of <link>s to CSS files for styles and
   <title>Resume</title>
 
   <!-- Load the page styles. -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
 
-
+   <link href="css/style.css" rel="stylesheet">
 
   <!--
   Uncomment the <script> tag below when you're ready to add an interactive Google Map to your resume!
   -->
 <!-- <script src="http://maps.googleapis.com/maps/api/js?libraries=places"></script> -->
 
+  <script src="http://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyBwLnr4l_Vx7SHGQ4hWyeZeta28kwFIcTs"></script>
+
+
   <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
   <div id="main">
-    Hello world!!!!   <!-- You'll be deleting this line in the course -->
 
     <!--
     Everything from here to the <script> tag below is the skeleton of your
@@ -47,19 +50,30 @@ need to load. You'll see a lot of <link>s to CSS files for styles and
     <div id="header" class="center-content clear-fix">
       <ul id="topContacts" class="flex-box"></ul>
     </div>
+
     <div style="clear: both;"></div>
-    <div id="workExperience" class="gray">
+    <div id="workExperience">
       <h2>Work Experience</h2>
+    <div class="work-entry"></div>
     </div>
-    <div id="projects">
-      <h2>Projects</h2>
-    </div>
+
+
     <div id="education" class="gray">
       <h2>Education</h2>
     </div>
-    <div id="mapDiv">
-      <h2>Where I've Lived and Worked</h2>
+
+    <div id="projects">
+      <h2>Projects</h2>
     </div>
+
+    <div id="mapDiv" class="gray">
+     <h2>Where I've Lived and Worked</h2>
+   </div>
+
+  <div style="height:400px; width:100%; display:inline-block; overflow:hidden;">
+    <iframe class="my-map" style="position:relative; top:-50px; border:none; padding-left: 30px;" src="https://www.google.com/maps/d/embed?mid=1SXH9BcGoHbdgNAEgI9ENkAixoxJ6Dgt_" width="1200" height="450"></iframe>
+  </div>
+
     <div id="lets-connect" class="dark-gray">
       <h2 class="orange center-text">Let's Connect</h2>
         <ul id="footerContacts" class="flex-box">
