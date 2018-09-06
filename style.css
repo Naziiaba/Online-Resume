@@ -201,16 +201,9 @@ span {
   }
 }
 
-#map {
-  display: block;
-  height: 100%;
-  margin: 0 5%;
-}
-
 #mapDiv {
-  height: 400px;
+  height: 200px;
   width: 100%;
-  padding-bottom: 5%;
 }
 
 @media only screen and (min-width: 750px) {
@@ -219,3 +212,4 @@ span {
     display: block;
   }
 }
+
