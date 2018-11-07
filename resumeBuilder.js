@@ -5,7 +5,7 @@ var bio = {
   "role" : "Front-End Web Developer",
   "contacts" : {
     "mobile" : "919-223-1263",
-    "email" : "ziaaidy@hotmail.com",
+    "email" : "naziia.travels@gmail.com",
     "github" : "Naziiaba",
     "twitter" : "@Emeraude100",
     "location" : "Raleigh, NC"
@@ -19,7 +19,7 @@ var bio = {
 
   "welcomeMessage" : "Welcome to my digital resume",
   "skills" : [
-    " HTML", " CSS", " Javascript", " jQuery", "Bootstrap", "Basics of Python"],
+    " HTML", " CSS", " Javascript", " jQuery", "Bootstrap", "SASS", "Chrome Dev Tolls", "Basics of Python"],
   "biopic" : "images/fryn.jpg"
 };
 
