@@ -19,7 +19,7 @@ var bio = {
 
   "welcomeMessage" : "Welcome to my digital resume",
   "skills" : [
-    " HTML", " CSS", " Javascript", " jQuery", "Bootstrap", "SASS", "Chrome Dev Tolls", "Basics of Python"],
+    " HTML", " CSS", " Javascript", " jQuery", "Bootstrap", "SASS", "Chrome Dev Tolls", "Basics of Python", "D3", "Knockout"],
   "biopic" : "images/fryn.jpg"
 };
 
