@@ -51,13 +51,7 @@ bio.display();
 
 var work = {
   "jobs": [
-    {
-      "employer": "Amazon",
-      "title": "FC Associate",
-      "dates": "2017",
-      "location": "North Carolina",
-      "description": "Problem solving, processing missorted packages and making sure that " + "customers packages get delivered safe and without any issues."
-    },   {
+   {
         "employer": "Ministry of Transport and Communications",
         "title": "Interpreter",
         "dates": "2014",
