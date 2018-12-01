@@ -7,7 +7,7 @@ var bio = {
     "mobile" : "919-223-1263",
     "email" : "naziia.travels@gmail.com",
     "github" : "Naziiaba",
-    "twitter" : "@Emeraude100",
+    "twitter" : "@naziiatravels",
     "location" : "Raleigh, NC"
   },
    "placesLived": [
