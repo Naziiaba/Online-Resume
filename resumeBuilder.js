@@ -95,8 +95,7 @@ var education = {
       "location": "Bishkek, Kyrgyzstan",
       "degree": "BA",
       "majors": "Economics",
-      "dates": "2008",
-      "url" : " "
+      
     },
     {
       "name": "Kyung Hee University",
