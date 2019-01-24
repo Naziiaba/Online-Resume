@@ -53,10 +53,9 @@ var work = {
   "jobs": [
    {
         "employer": "Ministry of Transport and Communications",
-        "title": "Interpreter",
+        "title": "QA Engineer",
         "dates": "2014",
         "location": "Bishkek, Kyrgyzstan",
-        "description": "Translation of documents and contracts."
       }
   ]
 };
@@ -100,8 +99,7 @@ var education = {
     {
       "name": "Kyung Hee University",
       "location": "Seoul, South Korea",
-      "degree": "Korean language and culture",
-      "majors": "a year language program",
+      "majors": "a year language program focused in Information Technology",
       "dates": "2009"
     }
   ],
